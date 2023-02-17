@@ -64,4 +64,20 @@ Configuration file is here :
 
 # [conf file of ipv4](kea-dhcp4.conf)
 
-Paste it on `kea-dhcp.conf` file.
+Paste it on `kea-dhcp4.conf` file.
+
+## Step 6
+
+Create `kea-dhcp-ddns.conf` in `/etc/kea` directory.
+
+```
+touch kea-dhcp-ddns.conf
+```
+
+```
+vim kea-dhcp-ddns.conf
+```
+
+`kea-dhcp-ddns.conf` file is here :
+
+# [kea-dhcp-ddns.conf file](kea-dhcp-ddns.conf)
