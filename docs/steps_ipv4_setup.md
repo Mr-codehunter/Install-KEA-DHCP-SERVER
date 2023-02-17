@@ -8,11 +8,13 @@ Like : `sudo apt install <package_name>`
 
 - Install kea-server 
 
-[Installation](installation.md)
+# [Installation](installation.md)
 
 <p align="center">
   <img src="images/kea1.png" />
 </p>
+
+## Step 2
 
 - Check status of kea-server
 
@@ -23,3 +25,17 @@ systemctl status kea-dhcp4-server
 <p align="center">
   <img src="images/kea2.png" />
 </p>
+
+## Step 3
+
+In this step root access is necessary.
+
+Now go to `/etc/kea/` directory.
+
+```
+ls /etc/kea/
+```
+<p align="center">
+  <img src="images/kea3.png" />
+</p>
+
