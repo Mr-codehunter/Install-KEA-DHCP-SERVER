@@ -81,3 +81,26 @@ vim kea-dhcp-ddns.conf
 `kea-dhcp-ddns.conf` file is here :
 
 # [kea-dhcp-ddns.conf file](kea-dhcp-ddns.conf)
+
+
+paste it on `kea-dhcp-ddns.conf` file.
+
+## Step 7
+
+Now once restart the server and check the status of the server.
+
+Restart command :
+
+```
+systemctl restart kea-dhcp4-server
+```
+
+Now check the status of the kea-server.
+
+```
+systemctl status kea-dhcp4-server
+```
+
+<p align="center">
+  <img src="images/kea4.png" />
+</p>
