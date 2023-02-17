@@ -161,7 +161,7 @@ ip a
 </p>
 
 
-Follow for more updates :
+# Follow for more updates :
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deepak-kumar---/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
