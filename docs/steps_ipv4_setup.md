@@ -66,6 +66,8 @@ Configuration file is here :
 
 Paste it on `kea-dhcp4.conf` file.
 
+# Note : In this file interface is `enp1s0` it is an ethernet ineterface you can chnage it according to their need.
+
 ## Step 6
 
 Create `kea-dhcp-ddns.conf` in `/etc/kea` directory.
