@@ -106,3 +106,57 @@ systemctl status kea-dhcp4-server
 <p align="center">
   <img src="images/kea4.png" />
 </p>
+
+## Step 8
+
+Now kea-server for ipv4 is configured.
+
+This is ready for testing.
+
+In this tutorial I'm using ethernet interface `enp1s0`.
+
+Connect an ethernet on the port where kea server is configured.
+
+After this run set interface command for ethernet.
+
+First check the status of the interface.
+
+```
+ip a
+```
+<p align="center">
+  <img src="Images/kea5.png" />
+</p>
+
+Interface is down because ethernet is not connect in my system and no `ip address` is assigned to `enp1s0`
+
+First up the interface and then assign the ip according to the subnet.
+
+```
+ifconfig enp1s0 10.205.0.1
+```
+
+Now interface is up and ip is assigned to the `enp1s0`
+
+## Step 9 
+
+Connect second side of the wire on the client side (another laptop) .
+
+Note : Because we will testing through wired connection.
+
+## Step 10
+
+Once both machienes are connected.
+
+Run command on client machines :
+
+```
+ip a
+```
+
+# output :
+
+<p align="center">
+  <img src="images/kea6.png" />
+</p>
+
