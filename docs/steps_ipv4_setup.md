@@ -39,3 +39,29 @@ ls /etc/kea/
   <img src="images/kea3.png" />
 </p>
 
+## Step 4
+
+Now you can see three auto generated file through above command.
+
+We will `move` the auto-generated configuration file in same location for future references.
+
+```
+mv /etc/kea/kea-dhcp4.conf /etc/kea/kea-dhcp4.conf.reference
+```
+
+## step 5
+
+Now we are make new configuration file in same location `/etc/kea/`.
+
+```
+touch kea-dhcp4.conf
+```
+
+```
+vim kea-dhcp4.conf
+```
+Configuration file is here :
+
+# [conf file of ipv4](kea-dhcp4.conf)
+
+Paste it on `kea-dhcp.conf` file.
