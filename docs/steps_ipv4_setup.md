@@ -125,7 +125,7 @@ First check the status of the interface.
 ip a
 ```
 <p align="center">
-  <img src="Images/kea5.png" />
+  <img src="images/kea5.png" />
 </p>
 
 Interface is down because ethernet is not connect in my system and no `ip address` is assigned to `enp1s0`
@@ -154,7 +154,7 @@ Run command on client machines :
 ip a
 ```
 
-# output :
+# Output :
 
 <p align="center">
   <img src="images/kea6.png" />
