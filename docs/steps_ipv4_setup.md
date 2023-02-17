@@ -160,3 +160,15 @@ ip a
   <img src="images/kea6.png" />
 </p>
 
+
+Follow for more updates :
+
+<p align="center">
+<a href="https://www.linkedin.com/in/deepak-kumar---/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
+<a href="mailto:deepak9988570526@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a>
+<a href="https://www.instagram.com/_deep_0911/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a>
+<a href="https://www.twitter.com/its_deepak0911/"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a>
+<a  href="https://wa.me/8847547031?text=Hi%20Codehunter"><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a>
+<a href="https://github.com/Mr-codehunter"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35"></a>
+</p>
+
