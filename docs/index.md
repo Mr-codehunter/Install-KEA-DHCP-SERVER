@@ -6,6 +6,6 @@ Kea is an open-source DHCP server developed by the Internet Systems Consortium, 
 
 ## Configuration steps for different ip versions :
 
-### 1. setup kea-server for ipv4
+### 1. [setup kea-server for ipv4](steps_ipv4_setup.md)
 
-### 2. setup kea-server for ipv6
+### 2. [setup kea-server for ipv6](steps_ipv6_setup.md)
